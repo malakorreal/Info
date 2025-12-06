@@ -1,4 +1,4 @@
-# INFO
+# INFORMATION
 ```js
 Hi My name is Malakor / Mek
 I'am a freelance developer
