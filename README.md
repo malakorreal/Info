@@ -7,4 +7,3 @@ DM Discord For Work !
 Discord : malakorreal 
 ```
 ###
-[![Discord Presence](https://lanyard.cnrad.dev/api/1353662988959219716)](https://discord.com/users/1353662988959219716)
